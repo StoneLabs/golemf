@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.stone_labs.golemf.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "VillagerEntityMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
