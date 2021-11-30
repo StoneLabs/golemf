@@ -1,6 +1,10 @@
+<img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/StoneLabs/golemf/build/master?label=master&style=flat-square"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/StoneLabs/golemf?style=flat-square"> <img alt="Version" src="https://img.shields.io/badge/Minecraft%20Version-1.18-blue?style=flat-square">
+
 # GolemF
 
 Server side fabric mod to disable golem spawning (only by villagers not by building them).
+
+Use gamerule `disableGolemSpawn` to toggle the mod.
 
 ## Download
 
